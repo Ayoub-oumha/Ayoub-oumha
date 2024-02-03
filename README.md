@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@ayouboumha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ayouboumha" height="30" width="40" /></a>
-<a href="https://fb.com/ayoub oumha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ayoub oumha" height="30" width="40" /></a>
+<a href="https://twitter.com/AyoubOumha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ayouboumha" height="30" width="40" /></a>
+<a href="https://fb.com/ayoub.oumhaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ayoub oumha" height="30" width="40" /></a>
 <a href="https://instagram.com/ayoub.oumha01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayoub.oumha01" height="30" width="40" /></a>
 <a href="https://discord.gg/ayyoub__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ayyoub__" height="30" width="40" /></a>
 </p>
